@@ -84,7 +84,7 @@ export const site = {
     twitter: "https://x.com/hkj22534690",
     linkedin: "https://linkedin.com/in/harsh-kumar-jha-1b976131b",
     email: "mailto:hjha5316@gmail.com",
-    resume: "https://drive.google.com/file/d/1bOBqtSbU91-pQKmUJRg-M0longH1tA0W/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/1KGyCCn2FDTN8Rr0dyxY8NJ16cw7NzbUV/view?usp=drive_link",
     discord: "",
     medium: "",
   },
