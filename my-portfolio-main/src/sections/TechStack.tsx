@@ -38,6 +38,8 @@ const SKILL_ICONS: Record<string, string> = {
   Swagger: "logos:swagger",
   AWS: "logos:aws",
   Firebase: "logos:firebase",
+  Vercel: "logos:vercel-icon",
+  Netlify: "logos:netlify-icon",
   Git: "logos:git-icon",
   GitHub: "logos:github-icon",
   "Visual Studio Code": "logos:visual-studio-code",
@@ -49,7 +51,7 @@ const skillCategories: Record<string, string[]> = {
   Databases: ["MySQL", "MongoDB", "SQL"],
   Frontend: ["React.js", "React Native", "Tailwind CSS", "Jetpack Compose", "HTML5", "CSS3"],
   Backend: ["Node.js", "Express.js", "FastAPI", "REST APIs", "API Integration", "Authentication", "Postman", "Swagger"],
-  "Cloud & Developer Tools": ["AWS", "Firebase", "Git", "GitHub", "Visual Studio Code", "Android Studio"],
+  "Cloud & Developer Tools": ["AWS", "Firebase", "Vercel", "Netlify", "Git", "GitHub", "Visual Studio Code", "Android Studio"],
 };
 
 export function TechStack() {

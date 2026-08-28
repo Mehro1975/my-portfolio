@@ -176,6 +176,8 @@ export const site = {
     "Swagger",
     "AWS",
     "Firebase",
+    "Vercel",
+    "Netlify",
     "Git",
     "GitHub",
     "Visual Studio Code",
