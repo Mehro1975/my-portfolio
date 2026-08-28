@@ -50,6 +50,7 @@ export const site = {
   },
   profileImages: [
     "/Profile_Photo.jpg",
+    "/profile2.png",
   ],
   bannerImage: "/images/cover.jpg",
   socialBannerImage: "/social-banner.png",
