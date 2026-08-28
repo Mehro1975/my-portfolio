@@ -115,7 +115,7 @@ export const site = {
       stack: ["Android", "Kotlin", "Jetpack Compose", "Node.js", "Express.js", "FastAPI", "Python", "Kraken OCR", "OpenCV", "MongoDB Atlas"],
       year: "2025",
       links: {
-        source: "https://github.com/Mehro1975",
+        source: "https://github.com/Mehro1975/billsense",
       },
       featured: true,
       image: "/project-images/billsense.jpg",
@@ -130,7 +130,7 @@ export const site = {
       stack: ["React.js", "Express.js", "Node.js", "MongoDB", "Twilio API"],
       year: "2026",
       links: {
-        source: "https://github.com/Mehro1975",
+        source: "https://github.com/Mehro1975/WhatsRemind",
       },
       featured: true,
       image: "/project-images/WhatsRemind.png",
@@ -145,7 +145,7 @@ export const site = {
       stack: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Tailwind CSS"],
       year: "2025",
       links: {
-        source: "https://github.com/Mehro1975",
+        source: "https://github.com/Mehro1975/CarRental",
       },
       featured: true,
       image: "/project-images/carrental.png",
