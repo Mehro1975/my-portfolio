@@ -55,7 +55,7 @@ export const site = {
   socialBannerImage: "/social-banner.png",
   initials: "HKJ",
   role: "Full Stack Developer",
-  location: "Ludhiana, Punjab, India",
+  location: "Dehradun, Uttarakhand, India",
   timezone: "Asia/Kolkata",
   email: "hjha5316@gmail.com",
   greeting: "Hey, I'm Harsh",
