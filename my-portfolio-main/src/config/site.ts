@@ -95,7 +95,7 @@ export const site = {
       period: "June – July 2026",
       blurb:
         "Implemented scalable frontend and backend modules for a confidential LMS using the MERN Stack, TypeScript, and JavaScript, contributing to database schema design and project architecture. Developed reusable API clients, authentication interceptors, error handling, and React Query (TanStack Query) integrations while consuming REST APIs documented with Swagger and tested using Postman. Worked in an Agile/Scrum environment, collaborating through Git, GitHub, GitLab, Merge Requests, code reviews, and integration branch workflows to maintain code quality and streamline software delivery.",
-      url: "https://xebia.com",
+      url: "",
     },
     {
       company: "Virtual View India",
