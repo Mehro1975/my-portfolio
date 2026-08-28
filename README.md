@@ -1,6 +1,5 @@
 # Harsh Kumar Jha — Portfolio
 A high-performance, responsive, and aesthetically premium personal portfolio built with React 18, Vite 6, Tailwind CSS, and TypeScript. Inspired by minimalist retro terminal grids and modern typographic grids.
-🔗 **Live Link:** [https://harsh-kumar-jha.netlify.app/](https://https://harsh-kumar-jha.netlify.app/)
 ---
 ## 🛠️ Tech Stack
 - **Core & Routing:** React 18 & React Router v6
