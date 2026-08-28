@@ -94,11 +94,11 @@ export function Socials({ className = "" }: { className?: string }) {
                 href={href}
                 target={href.startsWith("mailto") ? undefined : "_blank"}
                 rel="noopener noreferrer"
-                className="group flex items-center gap-2 rounded-full border border-neutral-700 bg-neutral-900 px-4 py-2 font-mono text-xs font-semibold text-neutral-200 hover:border-neutral-400 hover:text-white hover:bg-neutral-800 active:scale-95 transition-all duration-300 cursor-pointer shadow-sm"
+                className="group flex items-center gap-2.5 rounded-full border border-neutral-600 bg-neutral-900 px-6 py-3 font-mono text-[14px] font-bold text-neutral-100 hover:border-neutral-300 hover:text-white hover:bg-neutral-800 active:scale-95 transition-all duration-300 cursor-pointer shadow-md"
               >
-                <Icon className="h-4 w-4 shrink-0 transition-transform group-hover:scale-110 text-neutral-300 group-hover:text-white" />
+                <Icon className="h-5 w-5 shrink-0 transition-transform group-hover:scale-110 text-neutral-200 group-hover:text-white" />
                 <span>{label}</span>
-                <span className="text-[10px] text-neutral-400 transition-transform duration-200 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 group-hover:text-white">↗</span>
+                <span className="text-[12px] text-neutral-300 transition-transform duration-200 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 group-hover:text-white">↗</span>
               </a>
 
               <AnimatePresence>
