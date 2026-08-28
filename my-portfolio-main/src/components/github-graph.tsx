@@ -95,7 +95,7 @@ export function GitHubGraph() {
 
   const contributionsCount = data?.contributions
     ? data.contributions.reduce((sum, d) => sum + d.count, 0).toLocaleString()
-    : site.github.contributionsLastYear;
+    : "300+";
 
   return (
     <section className="mx-auto w-full max-w-5xl px-6 py-12">
