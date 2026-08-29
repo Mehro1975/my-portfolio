@@ -134,9 +134,9 @@ export function ProjectCard({ project: p, index = 0 }: { project: Project; index
               target="_blank"
               rel="noopener noreferrer"
               aria-label={`${p.title} repository`}
-              className="transition-all duration-200 hover:-translate-y-0.5 hover:text-[var(--fg)]"
+              className="transition-all duration-200 hover:-translate-y-0.5 text-neutral-300 hover:text-white"
             >
-              <GitHubIcon className="size-4" />
+              <GitHubIcon className="size-5.5" />
             </a>
           )}
         </div>
