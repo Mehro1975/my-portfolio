@@ -108,6 +108,21 @@ export const site = {
   ] as Job[],
   projects: [
     {
+      title: "SyntaxScribe",
+      blurb:
+        "A real-time developer workspace and note-taking platform providing developer documentation formatting and team wikis.",
+      story:
+        "Designed and implemented using Next.js 14, TypeScript, Tailwind CSS, and shadcn/ui. Integrated Convex as a real-time reactive database, Clerk for developer authentication, and EdgeStore for optimized, secure file uploads.",
+      stack: ["Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "Convex", "Clerk", "EdgeStore"],
+      year: "2026",
+      links: {
+        source: "https://github.com/Mehro1975/syntaxscribe",
+      },
+      featured: true,
+      image: "/project-images/syntaxscribe.png",
+      categories: ["Fullstack"],
+    },
+    {
       title: "BillSense",
       blurb:
         "An OCR-powered Android platform for document-driven resource intelligence. Scans bills to automatically extract data, eliminate manual entry, and categorise expenses.",
