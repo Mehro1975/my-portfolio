@@ -26,6 +26,13 @@ export function Hero({ onOpenPalette }: { onOpenPalette?: () => void }) {
     return () => clearInterval(timer);
   }, []);
 
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setImgIndex((prev) => (prev + 1) % site.profileImages.length);
+    }, 2000);
+    return () => clearInterval(timer);
+  }, []);
+
   return (
     <>
       {/* Cover Banner */}
